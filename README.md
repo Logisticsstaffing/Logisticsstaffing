@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Logisticsstaffing
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m a recruiter @Logisticsstaffing
+- 👀 I’m interested in networking and helping jobseekers and employers by connecting employers with top talent.
+- 🌱 I’m currently learning the tech space.
+- 💞️ I’m looking to collaborate on connecting jobseekers with jobs.
+- 📫 How to reach me janelle.johnson@jmlogisticsstaffing.com
 
 <!---
 Logisticsstaffing/Logisticsstaffing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
